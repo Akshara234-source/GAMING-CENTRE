@@ -12,5 +12,5 @@ Basically this is a gaming centre which includes a menu of many games includes 5
 - Improvising the game by adding GUI in to it to be more attractive.
 
 # Team Members
-[Ayush Chhabra](https://github.com/ayushchhabra30)
-Rashi Rajput 
+- [Ayush Chhabra](https://github.com/ayushchhabra30)
+- Rashi Rajput
